@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Day20</string>
+    <string name="textview">TEXTVIEW</string>
+    <string name="congratulations_for_showing_up_today">CONGRATULATIONS FOR SHOWING UP TODAY!</string>
+    <string name="how_is_the_android_app_dev_is_going">How is the Android App Dev is going?</string>
+    <string name="send_feedback">SEND FEEDBACK</string>
+    <string name="too_good">TOO GOOD</string>
+    <string name="lecture_20_learning_customised_alert_box">Lecture 20 : Learning Customised Alert Box</string>
+</resources>
